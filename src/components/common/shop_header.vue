@@ -5,7 +5,7 @@
 
 <script>
 export default {
-  name: "header"
+  name: "shop_header"
 }
 </script>
 

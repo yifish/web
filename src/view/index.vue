@@ -6,13 +6,13 @@
 </template>
 
 <script>
-import header from '@/components/common/header.vue'
+import shop_header from '@/components/common/shop_header.vue'
 import swipe from '@/components/common/swipe.vue'
 
 export default {
   name: "index",
   components: {
-    'x-header': header,
+    'x-header': shop_header,
     'x-swipe': swipe,
   },
   data() {
